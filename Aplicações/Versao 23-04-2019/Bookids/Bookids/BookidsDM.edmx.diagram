@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f4c9cfdcb8124248bc866bd662317339" Name="Diagram1" >
+        <EntityTypeShape EntityType="BookidsDM.Pessoas" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="BookidsDM.Clientes" Width="1.5" PointX="0.875" PointY="5.75" />
+        <EntityTypeShape EntityType="BookidsDM.Compras" Width="1.5" PointX="3.5" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookidsDM.DetalheCompras" Width="1.5" PointX="5.625" PointY="5.375" />
+        <InheritanceConnector EntityType="BookidsDM.DetalheCompras" />
+        <InheritanceConnector EntityType="BookidsDM.Compras" />
+        <InheritanceConnector EntityType="BookidsDM.Clientes" />
+        <EntityTypeShape EntityType="BookidsDM.Produtos" Width="1.5" PointX="8" PointY="5.5" />
+        <InheritanceConnector EntityType="BookidsDM.Produtos" />
+        <EntityTypeShape EntityType="BookidsDM.TipoProduto" Width="1.5" PointX="10.25" PointY="5.375" />
+        <InheritanceConnector EntityType="BookidsDM.TipoProduto" />
+        <EntityTypeShape EntityType="BookidsDM.Filhos" Width="1.5" PointX="0.75" PointY="0.5" />
+        <InheritanceConnector EntityType="BookidsDM.Pessoas" />
+        <EntityTypeShape EntityType="BookidsDM.Inscricoes" Width="1.5" PointX="3.25" PointY="2.875" />
+        <InheritanceConnector EntityType="BookidsDM.Inscricoes" />
+        <EntityTypeShape EntityType="BookidsDM.Escolas" Width="1.5" PointX="4.625" PointY="0.625" />
+        <InheritanceConnector EntityType="BookidsDM.Escolas" />
+        <EntityTypeShape EntityType="BookidsDM.Participacoes" Width="1.5" PointX="6.5" PointY="1.625" />
+        <InheritanceConnector EntityType="BookidsDM.Participacoes" />
+        <EntityTypeShape EntityType="BookidsDM.Eventos" Width="1.5" PointX="9.25" PointY="1.875" />
+        <InheritanceConnector EntityType="BookidsDM.Eventos" />
+        <EntityTypeShape EntityType="BookidsDM.Colaboracoes" Width="1.5" PointX="7.625" PointY="3.75" />
+        <InheritanceConnector EntityType="BookidsDM.Colaboracoes" />
+        <EntityTypeShape EntityType="BookidsDM.Animadores" Width="1.5" PointX="5.375" PointY="3.625" />
+        <InheritanceConnector EntityType="BookidsDM.Animadores" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
