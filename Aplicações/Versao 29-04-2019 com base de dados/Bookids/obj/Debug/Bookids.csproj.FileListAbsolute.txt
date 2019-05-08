@@ -32,3 +32,18 @@ C:\Users\MiguelAlexandreInáci\Desktop\Versao 29-04-2019\Bookids\Bookids\obj\Deb
 C:\Users\MiguelAlexandreInáci\Desktop\Versao 29-04-2019\Bookids\Bookids\obj\Debug\Bookids.csproj.CoreCompileInputs.cache
 C:\Users\MiguelAlexandreInáci\Desktop\Versao 29-04-2019\Bookids\Bookids\obj\Debug\Bookids.exe
 C:\Users\MiguelAlexandreInáci\Desktop\Versao 29-04-2019\Bookids\Bookids\obj\Debug\Bookids.pdb
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\bin\Debug\Bookids.exe.config
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\bin\Debug\Bookids.exe
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.csprojAssemblyReference.cache
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.AnimadoresForm.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.ClientesForm.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.EscolasForm.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.EventosForm.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.Form1.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.Properties.Resources.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.Admin.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.AreaCliente.resources
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.csproj.GenerateResource.cache
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.csproj.CoreCompileInputs.cache
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.exe
+C:\Users\MiguelAlexandreInáci\bookids\Aplicações\Versao 29-04-2019 com base de dados\Bookids\obj\Debug\Bookids.pdb
