@@ -17,28 +17,13 @@ namespace Bookids
             InitializeComponent();
         }
 
-
-        private void btnClientes_Click(object sender, EventArgs e)
+        
+        private void AbrirAdmin_Click(object sender, EventArgs e)
         {
-            ClientesForm c = new ClientesForm();
-            c.Show();
-        }
-
-        private void btnEscola_Click(object sender, EventArgs e)
-        {
-            EscolasForm es = new EscolasForm();
-            es.Show();
-        }
-
-        private void btnAnimadores_Click(object sender, EventArgs e)
-        {
-            AnimadoresForm a = new AnimadoresForm();
-            a.Show();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
+            Admin ad = new Admin();
+            ad.Show();
+            Form1 f1 = new Form1();
+            f1.Close();
         }
     }
 }

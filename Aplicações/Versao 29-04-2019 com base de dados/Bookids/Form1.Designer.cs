@@ -29,26 +29,26 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.button1 = new System.Windows.Forms.Button();
+            this.AbrirAdmin = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
+            this.FecharPrograma = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // AbrirAdmin
             // 
-            this.button1.BackColor = System.Drawing.Color.Transparent;
-            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(295, 101);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(292, 138);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Abrir o Bookids";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.AbrirAdmin.BackColor = System.Drawing.Color.Transparent;
+            this.AbrirAdmin.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("AbrirAdmin.BackgroundImage")));
+            this.AbrirAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AbrirAdmin.ForeColor = System.Drawing.Color.White;
+            this.AbrirAdmin.Location = new System.Drawing.Point(295, 101);
+            this.AbrirAdmin.Name = "AbrirAdmin";
+            this.AbrirAdmin.Size = new System.Drawing.Size(292, 138);
+            this.AbrirAdmin.TabIndex = 0;
+            this.AbrirAdmin.Text = "Abrir o Bookids";
+            this.AbrirAdmin.UseVisualStyleBackColor = false;
+            this.AbrirAdmin.Click += new System.EventHandler(this.AbrirAdmin_Click);
             // 
             // label1
             // 
@@ -87,17 +87,17 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Alunos da escola IPL - 1º ano TeSP PSI";
             // 
-            // button2
+            // FecharPrograma
             // 
-            this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(295, 271);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(292, 138);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "Sair do Bookids";
-            this.button2.UseVisualStyleBackColor = true;
+            this.FecharPrograma.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("FecharPrograma.BackgroundImage")));
+            this.FecharPrograma.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FecharPrograma.ForeColor = System.Drawing.Color.White;
+            this.FecharPrograma.Location = new System.Drawing.Point(295, 271);
+            this.FecharPrograma.Name = "FecharPrograma";
+            this.FecharPrograma.Size = new System.Drawing.Size(292, 138);
+            this.FecharPrograma.TabIndex = 4;
+            this.FecharPrograma.Text = "Sair do Bookids";
+            this.FecharPrograma.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -106,11 +106,11 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(843, 534);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.FecharPrograma);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.AbrirAdmin);
             this.Name = "Form1";
             this.Text = "Bookids";
             this.ResumeLayout(false);
@@ -120,11 +120,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button AbrirAdmin;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button FecharPrograma;
     }
 }
 
